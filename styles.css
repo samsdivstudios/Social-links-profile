@@ -105,6 +105,10 @@ nav a:active {
     background-color: var(--green-);
 }
 
+a:focus {
+    outline: 1px white; 
+}
+
 footer {
     max-width: 100%;
     height: 100px;
@@ -139,3 +143,4 @@ footer {
     }
 
 }
+
